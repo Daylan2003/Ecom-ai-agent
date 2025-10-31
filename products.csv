@@ -1,0 +1,251 @@
+product_id,product_name,category,price,rating,sales_volume,description,optimal_price
+0,lightweight serum,Grocery,40.74,4.41,618,lightweight serum with long battery life. grocery category.,43.47
+1,compact headphones,Beauty,69.77,4.71,354,compact headphones for families. beauty category.,68.54
+2,lightweight serum,Home,5.0,4.67,704,lightweight serum for families. home category.,5.0
+3,premium cookbook,Grocery,59.14,4.31,604,premium cookbook for students. grocery category.,60.64
+4,lightweight yoga mat,Sports,63.33,4.5,464,lightweight yoga mat for families. sports category.,63.1
+5,premium yoga mat,Grocery,93.21,5.0,407,premium yoga mat for students. grocery category.,94.51
+6,portable blender,Sports,67.31,2.92,167,portable blender for students. sports category.,64.52
+7,smart blender,Sports,85.85,4.2,471,smart blender with noise canceling. sports category.,84.48
+8,compact headphones,Home,63.37,4.35,261,compact headphones for travel. home category.,60.34
+9,durable headphones,Grocery,5.0,3.28,659,durable headphones with long battery life. grocery category.,5.0
+10,portable cookbook,Toys,67.41,4.46,275,portable cookbook for small spaces. toys category.,66.4
+11,compact serum,Toys,88.44,4.91,481,compact serum for travel. toys category.,91.05
+12,portable keyboard,Toys,112.34,4.3,1343,portable keyboard for students. toys category.,111.52
+13,portable cookbook,Sports,10.34,4.73,725,portable cookbook with noise canceling. sports category.,10.48
+14,eco blender,Grocery,32.38,4.55,446,eco blender for students. grocery category.,31.46
+15,wireless keyboard,Toys,38.64,3.91,129,wireless keyboard for families. toys category.,36.91
+16,wireless router,Electronics,35.43,3.9,401,wireless router with long battery life. electronics category.,31.88
+17,lightweight monitor,Grocery,64.45,3.35,986,lightweight monitor with long battery life. grocery category.,62.94
+18,lightweight yoga mat,Books,70.55,3.22,334,lightweight yoga mat for families. books category.,67.85
+19,smart headphones,Books,98.04,4.7,389,smart headphones for travel. books category.,97.75
+20,portable yoga mat,Beauty,71.83,5.0,991,portable yoga mat with long battery life. beauty category.,69.5
+21,eco headphones,Beauty,85.47,3.73,589,eco headphones for travel. beauty category.,84.04
+22,wireless serum,Sports,127.68,4.15,395,wireless serum for students. sports category.,127.79
+23,smart headphones,Beauty,41.23,4.76,607,smart headphones with long battery life. beauty category.,36.6
+24,portable keyboard,Sports,30.68,4.51,968,portable keyboard for travel. sports category.,31.76
+25,premium router,Sports,5.0,4.21,564,premium router with long battery life. sports category.,6.53
+26,smart yoga mat,Beauty,78.27,4.28,562,smart yoga mat with long battery life. beauty category.,78.61
+27,smart router,Electronics,70.26,3.67,966,smart router for families. electronics category.,70.42
+28,smart cookbook,Electronics,59.83,3.87,384,smart cookbook with long battery life. electronics category.,56.48
+29,eco board game,Electronics,74.63,2.97,1068,eco board game for small spaces. electronics category.,72.91
+30,premium headphones,Toys,91.87,4.08,15,premium headphones with noise canceling. toys category.,84.65
+31,premium drone,Sports,26.29,4.69,510,premium drone for small spaces. sports category.,26.09
+32,wireless drone,Beauty,81.21,2.93,584,wireless drone for travel. beauty category.,78.53
+33,smart monitor,Beauty,67.49,3.35,543,smart monitor for students. beauty category.,66.53
+34,durable board game,Grocery,97.01,4.13,718,durable board game with noise canceling. grocery category.,98.72
+35,compact yoga mat,Home,78.03,4.41,628,compact yoga mat for travel. home category.,85.74
+36,lightweight cookbook,Books,68.13,4.21,211,lightweight cookbook for small spaces. books category.,63.73
+37,eco headphones,Beauty,141.01,2.98,671,eco headphones for families. beauty category.,133.32
+38,compact drone,Home,43.48,4.75,516,compact drone for families. home category.,41.52
+39,wireless blender,Books,61.6,3.71,1035,wireless blender for families. books category.,62.3
+40,portable keyboard,Home,96.68,3.72,388,portable keyboard with noise canceling. home category.,91.23
+41,lightweight board game,Home,32.99,5.0,416,lightweight board game for travel. home category.,32.56
+42,wireless keyboard,Toys,73.21,5.0,168,wireless keyboard with long battery life. toys category.,76.19
+43,wireless headphones,Toys,48.12,3.61,674,wireless headphones for small spaces. toys category.,48.49
+44,smart drone,Books,45.3,4.18,500,smart drone with noise canceling. books category.,46.43
+45,wireless blender,Sports,79.87,4.19,793,wireless blender with long battery life. sports category.,80.82
+46,premium headphones,Sports,67.94,3.94,611,premium headphones for students. sports category.,69.47
+47,lightweight keyboard,Beauty,69.83,3.73,447,lightweight keyboard for students. beauty category.,67.46
+48,compact monitor,Books,39.37,4.61,589,compact monitor for families. books category.,38.13
+49,smart serum,Electronics,37.96,4.63,637,smart serum for travel. electronics category.,36.74
+50,eco drone,Beauty,5.0,3.37,332,eco drone for families. beauty category.,7.17
+51,premium yoga mat,Electronics,100.05,4.61,343,premium yoga mat for travel. electronics category.,96.85
+52,wireless yoga mat,Books,39.36,3.92,397,wireless yoga mat with long battery life. books category.,40.65
+53,durable drone,Home,31.36,5.0,248,durable drone for families. home category.,28.84
+54,portable keyboard,Toys,81.84,4.48,496,portable keyboard with noise canceling. toys category.,79.88
+55,compact board game,Beauty,49.18,4.58,653,compact board game for small spaces. beauty category.,52.12
+56,smart headphones,Toys,42.31,3.29,104,smart headphones for small spaces. toys category.,40.52
+57,wireless serum,Sports,70.15,3.99,64,wireless serum with noise canceling. sports category.,69.39
+58,wireless keyboard,Sports,5.0,5.0,424,wireless keyboard for families. sports category.,5.02
+59,wireless router,Sports,82.66,4.42,710,wireless router for families. sports category.,85.11
+60,compact drone,Electronics,62.01,3.59,839,compact drone for small spaces. electronics category.,60.52
+61,eco headphones,Toys,76.58,4.13,1068,eco headphones with noise canceling. toys category.,77.5
+62,smart keyboard,Books,90.53,4.21,1047,smart keyboard for families. books category.,89.2
+63,premium yoga mat,Sports,5.0,3.78,310,premium yoga mat with long battery life. sports category.,5.18
+64,durable board game,Books,120.47,3.2,338,durable board game for students. books category.,115.53
+65,lightweight drone,Beauty,85.97,4.99,675,lightweight drone for travel. beauty category.,86.95
+66,durable headphones,Books,70.34,3.44,585,durable headphones with noise canceling. books category.,68.56
+67,eco headphones,Electronics,5.0,3.56,472,eco headphones with noise canceling. electronics category.,5.0
+68,lightweight keyboard,Grocery,71.18,4.22,899,lightweight keyboard with long battery life. grocery category.,72.46
+69,wireless headphones,Electronics,34.11,3.71,287,wireless headphones for travel. electronics category.,31.35
+70,eco serum,Home,31.02,3.92,560,eco serum with long battery life. home category.,34.72
+71,premium headphones,Home,65.95,4.79,756,premium headphones with noise canceling. home category.,67.06
+72,lightweight board game,Toys,100.24,4.42,558,lightweight board game for students. toys category.,101.69
+73,premium board game,Home,88.82,5.0,562,premium board game for travel. home category.,88.94
+74,smart drone,Grocery,117.0,3.27,74,smart drone for students. grocery category.,111.01
+75,durable router,Books,5.0,4.05,173,durable router with long battery life. books category.,6.21
+76,smart serum,Books,28.22,4.44,311,smart serum with long battery life. books category.,31.28
+77,lightweight keyboard,Toys,62.66,4.31,654,lightweight keyboard with noise canceling. toys category.,61.5
+78,compact router,Books,9.81,3.99,514,compact router for students. books category.,5.12
+79,smart headphones,Electronics,128.75,3.98,193,smart headphones for students. electronics category.,125.47
+80,portable monitor,Sports,81.5,4.55,367,portable monitor for small spaces. sports category.,79.92
+81,eco monitor,Books,6.97,4.92,911,eco monitor with long battery life. books category.,6.6
+82,durable router,Grocery,90.34,4.38,410,durable router with noise canceling. grocery category.,91.5
+83,durable router,Sports,37.37,3.45,921,durable router with noise canceling. sports category.,38.5
+84,premium serum,Home,62.71,3.58,880,premium serum for students. home category.,62.88
+85,durable board game,Electronics,84.9,3.93,146,durable board game with noise canceling. electronics category.,83.47
+86,wireless monitor,Electronics,47.35,3.96,385,wireless monitor for travel. electronics category.,45.3
+87,eco serum,Grocery,66.09,4.64,497,eco serum for small spaces. grocery category.,67.09
+88,compact board game,Electronics,70.01,5.0,810,compact board game for students. electronics category.,71.1
+89,premium keyboard,Books,28.16,4.48,553,premium keyboard for small spaces. books category.,31.57
+90,premium board game,Books,20.13,4.26,1195,premium board game for students. books category.,17.04
+91,wireless headphones,Home,129.9,5.0,656,wireless headphones with noise canceling. home category.,129.73
+92,eco headphones,Electronics,78.54,4.96,10,eco headphones with noise canceling. electronics category.,72.38
+93,premium monitor,Books,40.41,5.0,372,premium monitor for small spaces. books category.,38.1
+94,eco serum,Sports,55.81,4.17,351,eco serum with noise canceling. sports category.,56.21
+95,compact keyboard,Toys,79.02,4.72,10,compact keyboard for travel. toys category.,74.99
+96,eco headphones,Home,51.25,4.88,330,eco headphones for travel. home category.,46.78
+97,smart serum,Electronics,17.63,3.13,313,smart serum with long battery life. electronics category.,17.09
+98,portable headphones,Books,65.78,4.44,281,portable headphones for families. books category.,64.21
+99,compact cookbook,Books,66.37,4.25,385,compact cookbook for travel. books category.,63.95
+100,eco board game,Books,83.05,3.55,910,eco board game with noise canceling. books category.,81.74
+101,smart drone,Grocery,32.72,2.78,513,smart drone with noise canceling. grocery category.,36.46
+102,wireless yoga mat,Grocery,109.5,3.82,506,wireless yoga mat for students. grocery category.,107.46
+103,eco monitor,Beauty,101.37,4.31,472,eco monitor for students. beauty category.,101.36
+104,durable yoga mat,Books,86.67,4.23,716,durable yoga mat for families. books category.,84.62
+105,lightweight router,Toys,67.59,4.37,562,lightweight router for small spaces. toys category.,65.14
+106,eco drone,Beauty,66.44,4.16,477,eco drone with noise canceling. beauty category.,67.36
+107,premium keyboard,Home,148.85,4.41,352,premium keyboard for families. home category.,147.26
+108,lightweight blender,Electronics,89.83,2.71,442,lightweight blender with long battery life. electronics category.,87.33
+109,premium cookbook,Electronics,44.48,4.15,452,premium cookbook for families. electronics category.,44.63
+110,premium cookbook,Books,34.86,4.64,331,premium cookbook for travel. books category.,33.37
+111,smart headphones,Sports,139.68,3.12,527,smart headphones for travel. sports category.,137.59
+112,eco headphones,Toys,12.31,2.95,358,eco headphones with noise canceling. toys category.,14.09
+113,wireless headphones,Toys,149.95,3.44,847,wireless headphones for students. toys category.,141.89
+114,portable serum,Books,18.79,4.22,572,portable serum for students. books category.,18.18
+115,durable monitor,Home,62.23,4.67,805,durable monitor with long battery life. home category.,58.51
+116,lightweight serum,Grocery,41.64,4.39,194,lightweight serum for small spaces. grocery category.,42.3
+117,portable cookbook,Books,47.37,4.8,229,portable cookbook for students. books category.,48.22
+118,lightweight blender,Grocery,107.71,4.56,582,lightweight blender for travel. grocery category.,109.7
+119,portable yoga mat,Grocery,7.55,4.78,385,portable yoga mat with noise canceling. grocery category.,9.73
+120,wireless keyboard,Toys,103.63,2.8,61,wireless keyboard for small spaces. toys category.,96.4
+121,durable headphones,Sports,94.01,4.08,416,durable headphones for small spaces. sports category.,95.45
+122,durable yoga mat,Electronics,135.43,4.5,344,durable yoga mat for students. electronics category.,133.59
+123,smart drone,Home,70.41,4.47,737,smart drone for students. home category.,71.77
+124,wireless cookbook,Sports,33.41,4.1,482,wireless cookbook with noise canceling. sports category.,27.89
+125,lightweight router,Home,45.15,3.71,727,lightweight router with noise canceling. home category.,42.69
+126,eco blender,Grocery,101.52,4.25,850,eco blender for families. grocery category.,100.63
+127,compact monitor,Books,47.82,4.22,141,compact monitor with long battery life. books category.,47.72
+128,portable monitor,Sports,25.84,4.73,262,portable monitor for small spaces. sports category.,30.92
+129,eco blender,Books,29.96,4.52,356,eco blender for travel. books category.,30.01
+130,compact monitor,Home,5.0,3.89,238,compact monitor for students. home category.,5.0
+131,eco board game,Electronics,84.77,3.76,658,eco board game for students. electronics category.,85.52
+132,portable monitor,Sports,34.55,3.95,481,portable monitor with long battery life. sports category.,35.31
+133,premium blender,Grocery,79.59,4.75,708,premium blender for travel. grocery category.,81.29
+134,lightweight cookbook,Sports,75.04,4.22,567,lightweight cookbook for small spaces. sports category.,72.06
+135,eco yoga mat,Grocery,22.16,4.73,490,eco yoga mat with long battery life. grocery category.,23.59
+136,wireless blender,Home,136.69,4.3,181,wireless blender with long battery life. home category.,136.62
+137,smart headphones,Toys,5.0,4.88,861,smart headphones for families. toys category.,5.0
+138,wireless blender,Toys,103.06,4.6,10,wireless blender with long battery life. toys category.,98.22
+139,wireless router,Home,44.68,3.39,1149,wireless router for students. home category.,42.67
+140,durable monitor,Books,5.0,3.04,281,durable monitor for small spaces. books category.,6.39
+141,premium router,Home,24.86,3.64,491,premium router for families. home category.,24.82
+142,lightweight router,Sports,79.71,3.18,707,lightweight router for families. sports category.,78.01
+143,lightweight router,Sports,100.85,5.0,107,lightweight router for students. sports category.,99.23
+144,portable cookbook,Electronics,79.44,3.73,376,portable cookbook for travel. electronics category.,77.35
+145,smart serum,Electronics,46.93,3.4,698,smart serum with long battery life. electronics category.,48.02
+146,smart serum,Books,108.24,4.51,466,smart serum with long battery life. books category.,110.24
+147,durable blender,Sports,38.84,4.08,626,durable blender for families. sports category.,38.15
+148,durable monitor,Grocery,61.6,3.72,726,durable monitor for students. grocery category.,60.83
+149,wireless headphones,Beauty,74.33,4.48,775,wireless headphones with long battery life. beauty category.,74.83
+150,wireless cookbook,Beauty,43.74,3.53,579,wireless cookbook with noise canceling. beauty category.,41.57
+151,portable blender,Beauty,58.54,4.43,364,portable blender for families. beauty category.,59.35
+152,premium monitor,Home,61.01,4.87,547,premium monitor for students. home category.,61.6
+153,lightweight drone,Sports,46.32,3.7,488,lightweight drone with noise canceling. sports category.,44.77
+154,premium board game,Books,66.14,4.35,453,premium board game for travel. books category.,64.92
+155,wireless cookbook,Home,35.66,4.08,1005,wireless cookbook with noise canceling. home category.,34.16
+156,portable keyboard,Beauty,44.28,4.78,358,portable keyboard for students. beauty category.,45.7
+157,durable yoga mat,Books,83.74,4.07,824,durable yoga mat for students. books category.,83.64
+158,compact drone,Grocery,99.26,4.89,444,compact drone with long battery life. grocery category.,97.47
+159,wireless board game,Sports,6.61,3.68,488,wireless board game for students. sports category.,6.97
+160,wireless monitor,Toys,72.38,3.93,625,wireless monitor for families. toys category.,75.04
+161,compact drone,Books,54.45,3.39,407,compact drone for families. books category.,52.96
+162,premium yoga mat,Home,103.72,4.39,242,premium yoga mat for families. home category.,102.06
+163,compact blender,Electronics,58.59,3.24,532,compact blender with long battery life. electronics category.,55.57
+164,portable board game,Toys,55.84,3.39,265,portable board game with long battery life. toys category.,57.22
+165,wireless router,Toys,69.03,4.38,344,wireless router for small spaces. toys category.,69.22
+166,smart blender,Grocery,144.07,4.09,631,smart blender for families. grocery category.,146.61
+167,wireless keyboard,Electronics,29.33,4.12,432,wireless keyboard for small spaces. electronics category.,28.81
+168,lightweight keyboard,Grocery,66.84,3.46,747,lightweight keyboard for families. grocery category.,66.79
+169,premium blender,Electronics,67.37,4.63,868,premium blender for families. electronics category.,71.12
+170,durable yoga mat,Home,104.28,4.44,416,durable yoga mat for families. home category.,108.52
+171,lightweight blender,Books,53.07,4.89,600,lightweight blender for small spaces. books category.,57.98
+172,portable yoga mat,Sports,37.2,3.81,419,portable yoga mat with noise canceling. sports category.,37.34
+173,lightweight serum,Toys,81.65,4.78,1241,lightweight serum for small spaces. toys category.,83.09
+174,portable headphones,Toys,20.53,4.44,374,portable headphones for families. toys category.,20.8
+175,wireless yoga mat,Electronics,73.97,4.49,379,wireless yoga mat for families. electronics category.,76.67
+176,smart yoga mat,Home,67.86,4.73,920,smart yoga mat for students. home category.,67.87
+177,eco serum,Grocery,53.96,4.63,663,eco serum with noise canceling. grocery category.,51.13
+178,smart cookbook,Home,108.19,4.57,600,smart cookbook for students. home category.,107.14
+179,premium board game,Sports,68.07,2.71,324,premium board game for families. sports category.,64.74
+180,eco headphones,Toys,87.01,2.39,787,eco headphones with long battery life. toys category.,79.71
+181,compact cookbook,Electronics,14.69,4.8,383,compact cookbook with long battery life. electronics category.,15.39
+182,wireless monitor,Home,5.0,4.25,435,wireless monitor with long battery life. home category.,7.42
+183,compact headphones,Sports,30.66,4.41,711,compact headphones for travel. sports category.,33.17
+184,wireless blender,Sports,98.32,4.0,896,wireless blender for small spaces. sports category.,102.52
+185,durable board game,Home,48.74,3.83,537,durable board game with noise canceling. home category.,47.04
+186,durable blender,Toys,120.05,4.56,379,durable blender for travel. toys category.,114.59
+187,portable board game,Home,62.37,4.34,537,portable board game for families. home category.,58.78
+188,smart board game,Grocery,27.15,4.49,569,smart board game with noise canceling. grocery category.,25.86
+189,premium keyboard,Grocery,79.15,3.55,492,premium keyboard for travel. grocery category.,81.38
+190,portable drone,Sports,66.94,3.94,545,portable drone with noise canceling. sports category.,67.6
+191,smart router,Electronics,70.59,3.65,483,smart router with noise canceling. electronics category.,69.8
+192,wireless board game,Toys,38.85,3.9,805,wireless board game with long battery life. toys category.,39.92
+193,portable router,Books,87.65,3.87,132,portable router with noise canceling. books category.,82.93
+194,compact router,Grocery,106.83,5.0,10,compact router for travel. grocery category.,102.8
+195,smart keyboard,Electronics,5.0,5.0,510,smart keyboard for students. electronics category.,5.0
+196,wireless cookbook,Books,169.97,4.12,92,wireless cookbook for small spaces. books category.,164.49
+197,lightweight yoga mat,Books,51.16,4.34,452,lightweight yoga mat with noise canceling. books category.,51.93
+198,lightweight yoga mat,Sports,78.28,4.22,1113,lightweight yoga mat for small spaces. sports category.,80.57
+199,portable keyboard,Home,71.07,4.06,522,portable keyboard with noise canceling. home category.,72.95
+200,wireless yoga mat,Grocery,38.95,4.29,101,wireless yoga mat for families. grocery category.,38.66
+201,durable cookbook,Books,67.84,4.92,531,durable cookbook for small spaces. books category.,67.58
+202,smart keyboard,Books,149.11,4.35,644,smart keyboard for travel. books category.,151.3
+203,wireless blender,Toys,66.18,4.26,95,wireless blender with long battery life. toys category.,64.84
+204,premium cookbook,Sports,123.69,3.6,559,premium cookbook for students. sports category.,119.68
+205,premium board game,Toys,78.35,3.66,411,premium board game with noise canceling. toys category.,77.5
+206,compact router,Grocery,35.49,3.71,168,compact router for small spaces. grocery category.,35.83
+207,premium cookbook,Electronics,31.87,5.0,919,premium cookbook for families. electronics category.,31.41
+208,eco yoga mat,Books,70.59,3.78,94,eco yoga mat with noise canceling. books category.,68.94
+209,portable yoga mat,Electronics,5.0,5.0,140,portable yoga mat with noise canceling. electronics category.,5.0
+210,smart board game,Electronics,77.27,4.68,549,smart board game for students. electronics category.,76.38
+211,portable blender,Beauty,5.0,4.32,806,portable blender for small spaces. beauty category.,5.0
+212,lightweight yoga mat,Electronics,59.57,4.17,717,lightweight yoga mat with noise canceling. electronics category.,55.77
+213,eco router,Toys,105.89,4.52,418,eco router for families. toys category.,103.1
+214,eco drone,Electronics,5.0,3.8,311,eco drone for families. electronics category.,6.46
+215,wireless board game,Books,88.47,3.69,574,wireless board game for families. books category.,88.93
+216,premium router,Home,36.13,3.4,115,premium router for travel. home category.,32.19
+217,portable board game,Beauty,40.72,4.59,612,portable board game for families. beauty category.,39.81
+218,compact serum,Toys,60.91,2.62,721,compact serum for small spaces. toys category.,53.93
+219,premium drone,Home,69.36,4.29,332,premium drone with long battery life. home category.,70.5
+220,lightweight router,Home,44.81,3.77,521,lightweight router for students. home category.,45.15
+221,smart board game,Electronics,5.0,3.97,244,smart board game for small spaces. electronics category.,5.49
+222,lightweight monitor,Toys,70.04,4.03,627,lightweight monitor with noise canceling. toys category.,71.44
+223,portable yoga mat,Home,5.0,4.12,560,portable yoga mat for students. home category.,5.0
+224,wireless cookbook,Toys,69.92,3.62,635,wireless cookbook with long battery life. toys category.,66.12
+225,premium serum,Grocery,35.9,4.06,359,premium serum for families. grocery category.,34.51
+226,wireless yoga mat,Electronics,65.62,4.1,609,wireless yoga mat for families. electronics category.,67.52
+227,smart serum,Sports,76.47,4.54,391,smart serum with long battery life. sports category.,78.78
+228,portable blender,Sports,13.91,4.06,604,portable blender for small spaces. sports category.,13.59
+229,smart cookbook,Beauty,107.93,3.87,937,smart cookbook with noise canceling. beauty category.,108.79
+230,compact yoga mat,Electronics,92.73,3.8,201,compact yoga mat for travel. electronics category.,91.07
+231,compact keyboard,Beauty,88.56,3.32,64,compact keyboard for small spaces. beauty category.,84.02
+232,compact yoga mat,Sports,46.36,4.43,772,compact yoga mat with noise canceling. sports category.,47.6
+233,lightweight headphones,Books,77.31,4.03,616,lightweight headphones for students. books category.,76.96
+234,smart headphones,Home,135.51,3.74,685,smart headphones for travel. home category.,134.22
+235,smart router,Sports,95.38,4.02,348,smart router with long battery life. sports category.,93.6
+236,portable serum,Electronics,31.91,4.88,254,portable serum with long battery life. electronics category.,29.1
+237,smart keyboard,Sports,22.32,3.03,813,smart keyboard for small spaces. sports category.,22.06
+238,lightweight serum,Grocery,94.86,3.65,144,lightweight serum for travel. grocery category.,94.45
+239,eco blender,Sports,106.49,4.43,613,eco blender for students. sports category.,110.84
+240,smart blender,Toys,57.44,3.46,490,smart blender with long battery life. toys category.,54.0
+241,durable keyboard,Home,79.49,3.97,351,durable keyboard for travel. home category.,75.5
+242,durable keyboard,Home,52.26,3.93,576,durable keyboard for small spaces. home category.,53.26
+243,eco drone,Grocery,47.75,4.43,1032,eco drone for small spaces. grocery category.,49.52
+244,eco board game,Books,91.1,4.54,240,eco board game with long battery life. books category.,90.99
+245,portable serum,Electronics,56.7,4.05,703,portable serum for families. electronics category.,57.49
+246,eco serum,Toys,111.73,3.8,665,eco serum with noise canceling. toys category.,113.15
+247,lightweight keyboard,Books,71.5,4.64,344,lightweight keyboard for travel. books category.,72.13
+248,lightweight drone,Sports,52.68,3.59,354,lightweight drone for small spaces. sports category.,52.5
+249,wireless board game,Grocery,114.06,4.67,671,wireless board game for students. grocery category.,110.44
